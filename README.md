@@ -1,5 +1,18 @@
 # 😭 WSOB (CVE-2022-29464)
 
+<div align="center">
+    <img src="./assets/preview.png" width="800">
+</div>
+
+<br>
+
+<p align="center">
+    <img src="https://img.shields.io/github/license/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/oppsec/WSOB?color=blue&label=STARS&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+</p>
+
 **😭 WSOB** is a python created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.
 
 <br>
