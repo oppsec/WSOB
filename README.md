@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/languages/code-size/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
 </p>
 
-**😭 WSOB** is a python created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.
+**😭 WSOB** is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.
 
 <br>
 
