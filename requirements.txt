@@ -1,2 +1,2 @@
-rich==12.2.0
-requests==2.22.0
+rich==12.4.1
+requests==2.27.1
