@@ -1,4 +1,3 @@
-from datetime import datetime
 from random import randint
 
 def get_user_agent() -> str:
@@ -23,5 +22,3 @@ props = {
     'headers': headers,
     'allow_redirects': True
 }
-
-get_today_date = datetime.today().strftime('%Y-%m-%d')

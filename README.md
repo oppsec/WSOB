@@ -1,7 +1,7 @@
 # 😭 WSOB (CVE-2022-29464)
 
 <div align="center">
-    <img src="./assets/preview.png" width="800">
+    <img src="./assets/banner.png">
 </div>
 
 <br>
