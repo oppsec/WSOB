@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/github/languages/code-size/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
 </p>
 
+___
+
+<br>
+
 **😭 WSOB** is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.
 
 <br>
@@ -26,7 +30,7 @@ Source: https://nvd.nist.gov/vuln/detail/CVE-2022-29464
 
 ## ⚡ Installing / Getting started
 
-<p> A quick guide of how to install and use WSOB. </p>
+<p> A quick guide on how to install and use WSOB </p>
 
 ```
 1. Clone the repository - git clone https://github.com/oppsec/wsob.git
@@ -57,7 +61,7 @@ A quick guide of how to contribute with the project.
 <br><br>
 
 ## 🙏 Credits
-- Credits to hakivvi for the original exploit
+- Credits to hakivvi for the original webshell code
 
 <br><br>
 
