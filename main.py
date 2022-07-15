@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from src.interface.ui import banner
 from src.wsob.main import start
 
