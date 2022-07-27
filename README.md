@@ -7,10 +7,10 @@
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/oppsec/WSOB?color=blue&label=STARS&logo=github&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/code-size/oppsec/WSOB?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/oppsec/WSOB?color=blue&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/oppsec/WSOB?color=blue&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/oppsec/WSOB?color=blue&label=STARS&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/oppsec/WSOB?color=blue&logo=github&style=for-the-badge">
 </p>
 
 ___
